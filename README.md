@@ -18,7 +18,7 @@
   
 ### Hi there 👋
 
-### I'm Hemasis. Software Engineer in the making.
+### I'm Hemasis. Software Engineer in the Making.
 
 </div>
 
