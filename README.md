@@ -45,7 +45,7 @@ ___
 ### Tools I Work With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,express,linux,mongodb,netlify,nodejs,py,vercel,react,vite,mysql,javascript,r,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,express,linux,mongodb,tailwindcss,netlify,nodejs,py,vercel,react,vite,mysql,javascript,java,r,html,css" />
   </a>
 </p>
 
