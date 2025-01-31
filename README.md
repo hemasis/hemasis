@@ -18,7 +18,7 @@
   
 ### Hi there 👋
 
-### I'm Hemasis. Aspiring Frontend Developer.
+### I'm Hemasis. Software Engineer in the making.
 
 </div>
 
